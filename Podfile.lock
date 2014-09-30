@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (2.2.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.2.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.2.4):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.2.4)
+  - AFNetworking/Security (2.2.4)
+  - AFNetworking/Serialization (2.2.4)
+  - AFNetworking/UIKit (2.2.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - JSONModel (1.0.1)
+  - MBProgressHUD (0.9)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage-ProgressView (0.3.1):
+    - SDWebImage (~> 3.0)
+  - SDWebImage/Core (3.7.1)
+  - TPKeyboardAvoiding (1.2.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.2.3)
+  - JSONModel (= 1.0.1)
+  - MBProgressHUD (~> 0.9)
+  - SDWebImage (~> 3.6)
+  - SDWebImage-ProgressView (~> 0.3.1)
+  - TPKeyboardAvoiding (~> 1.2.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: ab63e259fe91eef4519b371ef0a4955af0e73e64
+  JSONModel: 634100aaacbd89811bc8a03da209356e5989c569
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SDWebImage-ProgressView: 7b7a9512cbf22d0d6e3d20d9aa8b03e1940d164f
+  TPKeyboardAvoiding: 925e1e1912597d1a4956697eec3bd9656552153c
+
+COCOAPODS: 0.33.1
